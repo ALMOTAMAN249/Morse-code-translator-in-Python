@@ -42,9 +42,9 @@ The result is:
 
 - ✅ **Simple and beginner-friendly**
 - 🔧 **Easily extensible**:
-  - Add reverse translation (Morse → English)
-  - Add a GUI
-  - Play Morse code as audio beeps
+  - Add reverse translation (Morse → English) (in future releases)
+  - Add a GUI (in future releases)
+  - Play Morse code as audio beeps (in future releases)
 - 🧰 Teaches key Python concepts:
   - Dictionaries
   - Loops
